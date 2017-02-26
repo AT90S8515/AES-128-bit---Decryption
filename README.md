@@ -38,4 +38,4 @@ Sample result is look like:
       Enter the Encryption Key:2a0c24f2875493bcb7080e43930c530c
       The Plain text: 0000000000000000000000000000abd6
       
- You can try your ciphered your on plain text using my other repository:
+ You can try your ciphered your on plain text using my other repository:https://github.com/savanddarji/AES-128-bit---Encryption
